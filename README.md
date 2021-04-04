@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-<!--
-**viditrv123/viditrv123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is [Vidit Singh Gautam]. 
+
+I am a Mechanical Engineer who is passionate about coding ✨
+
+![Vidit's Github Stats](https://github-readme-stats.vercel.app/api?username=viditrv123&show_icons=true)
 
 Here are some ideas to get you started:
 
