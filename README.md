@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is [Vidit Singh Gautam]. 
+My name is [Vidit Singh Gautam](https://viditrv123.github.io/MyPortfolio/). 
 
 I am a Mechanical Engineer who is passionate about coding ✨
 
