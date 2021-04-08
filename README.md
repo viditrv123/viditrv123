@@ -42,3 +42,6 @@ Here are some ideas to get you started:
 [website]:https://viditrv123.github.io/MyPortfolio/
 [twitter]:https://twitter.com/ViditSinghGaut1
 [linkedin]:https://www.linkedin.com/in/vidit-singh-gautam-642290178/
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viditrv123&theme=tokyonight)
