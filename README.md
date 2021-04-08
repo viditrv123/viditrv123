@@ -43,5 +43,5 @@ Here are some ideas to get you started:
 [twitter]:https://twitter.com/ViditSinghGaut1
 [linkedin]:https://www.linkedin.com/in/vidit-singh-gautam-642290178/
 
-
+<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viditrv123&theme=tokyonight)
