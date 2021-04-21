@@ -9,6 +9,16 @@ My aim is to bring significant positive change to society with the help of knowl
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=viditrv123" alt="viditrv123" /> </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viditrv123&layout=compact&hide=html&langs_count=8 alt="viditrv123" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=viditrv123&show_icons=true" alt="viditrv123" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viditrv123&layout=compact" />
+</p>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on polishing the previous projects that I have started.
