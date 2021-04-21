@@ -7,7 +7,7 @@ My aim is to bring significant positive change to society with the help of knowl
 
 ![Vidit's Github Stats](https://github-readme-stats.vercel.app/api?username=viditrv123&show_icons=true)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Shruti3004" alt="Shruti3004" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=viditrv123" alt="viditrv123" /> </p>
 
 Here are some ideas to get you started:
 
